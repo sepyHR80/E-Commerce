@@ -1,0 +1,20 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules/ directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore all .DS_Store files (common on macOS)
+.DS_Store
+
+# Ignore a specific file
+myfile.txt
+
+# Ignore an entire directory
+mydirectory/
+
+# Ignore specific file types in a directory
+mydirectory/*.tmp
